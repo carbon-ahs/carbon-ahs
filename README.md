@@ -1,3 +1,4 @@
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=carbon-ahs)
 <h1 align="center">Hi 👋, I'm Ahsan Habib</h1>
 <h3 align="center">A passionate Software Engineer.</h3>
 
