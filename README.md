@@ -6,7 +6,7 @@
 - 💬 Ask me about **django, react, flutter**
 
 
-<h3 align="left">📫 How to reach me - <strong>shehanuk.ahsan@gmail.com </strong>></h3>
+<h4 align="left">📫 How to reach me - <strong>shehanuk.ahsan@gmail.com </strong></h4>
 
 <p align="left">
 </p>
