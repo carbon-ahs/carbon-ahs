@@ -7,7 +7,7 @@ Greetings. Welcome to my profile.
 I love to solve any sort of programming or real life problem. I am willing to work in such an environment which provides challenges and opportunity to expose my knowledge or potentials through my technical skills & hard work.
 
 For better communication, feel free to DM me or email me.
-My email address: shehanuk.ahsan@gmail.com
+
 - 💬 Ask me about **django, react, flutter**
 
 - 📫 How to reach me -  **shehanuk.ahsan@gmail.com**
