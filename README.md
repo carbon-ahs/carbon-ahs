@@ -8,7 +8,7 @@ I love to solve any sort of programming or real life problem. I am willing to wo
 
 For better communication, feel free to DM me or email me.
 
-- 💬 Ask me about **django, react, flutter**
+- 💬 Ask me about **django, drf, react, flutter**
 
 - 📫 How to reach me -  **shehanuk.ahsan@gmail.com**
 
