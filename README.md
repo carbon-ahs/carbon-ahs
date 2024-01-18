@@ -10,11 +10,7 @@ For better communication, feel free to DM me or email me.
 
 - 💬 Ask me about **django, drf, react, flutter**
 
-- 📫 How to reach me -  **shehanuk.ahsan@gmail.com**
-
-<p align="left">
-</p>
-
+- 📫 How to reach me -  **shehanuk.ahsan@gmail.com** or **+8801755215174**
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carbon-ahs&show_icons=true&locale=en&layout=compact" alt="carbon-ahs" /></p>
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=carbon-ahs) 
