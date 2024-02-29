@@ -8,7 +8,7 @@ I love to solve any sort of programming or real life problem. I am willing to wo
 
 For better communication, feel free to DM me or email me.
 
-- 💬 Ask me about **django, drf, native android, flutter**
+- 💬 Ask me about **android (native/flutter), django, drf**
 
 - 📫 How to reach me -  **shehanuk.ahsan@gmail.com** or **+8801755215173**
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carbon-ahs&show_icons=true&locale=en&layout=compact" alt="carbon-ahs" /></p>
